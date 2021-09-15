@@ -70,7 +70,7 @@ Value of a = 5
 - The declaration tells the compiler that b would be used to store the address of an integer variable – in other words, **b points to an integer**
 - As we now know, the ‘*” symbol stands for ‘Value at address’; Thus  int *b means the value at the address stored in b is an integer, in this case the value at address 1476 is 5 if we print *b in our program.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54a179b2-e748-4e2e-aee0-1da3222af470/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54a179b2-e748-4e2e-aee0-1da3222af470/Untitled.png)
+
 
 ```c
 /* Program 3*/
