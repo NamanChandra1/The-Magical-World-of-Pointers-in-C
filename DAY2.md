@@ -210,8 +210,7 @@ Address of the 2 1-D Array is 2472
 Address of the 3 1-D Array is 2480
 ```
 
-## Array of Pointers and Returning Array
-from a Function
+## Array of Pointers and Returning Array from a Function
 
 ### ARRAY OF POINTERS
 
